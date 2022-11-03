@@ -20,7 +20,7 @@
     - [Игры разума](https://github.com/khloptsevps/brain-games)
     - [Вычислитель отличий](https://github.com/khloptsevps/gendiff-hr)
     - [RSS агрегатор](https://github.com/khloptsevps/rss-reader)
-    - [Очень упрощенная версия Слак-чат](https://github.com/khloptsevps/slack-chat)
+    - [Командный чат (аналог Slack-чата, очень упрощенная версия)](https://github.com/khloptsevps/slack-chat)
   - Нахожусь в поиске стажировки или работы. ( Любой формат: гибридный/удаленный/офис)
   - Проживаю в Россия, Хабаровск.  
   - Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-t.me/khloptsevps-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/khloptsevps) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:p.khloptsev@gmail.com)
